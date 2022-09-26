@@ -32,6 +32,7 @@ repoze.lru==0.6
 repoze.who==2.0
 repoze.who-friendlyform==1.0.8
 requests==2.3.0
+setuptools==20.4
 simplejson==3.3.1
 six==1.7.3
 solrpy==0.9.5
